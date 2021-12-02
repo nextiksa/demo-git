@@ -4,7 +4,11 @@
 4.good
 5. hi
 6.hello
+<<<<<<< HEAD
 7. good buy
 8.hi
 9.iuop
 -----------
+=======
+7. good buy
+>>>>>>> fac8bf80d2e27967409e956278a4ebe263e9d0dc
